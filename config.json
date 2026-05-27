@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configvalculate",
+        "uuid": 1679580,
+        "checksum": "tyndsa"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
